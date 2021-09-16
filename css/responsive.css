@@ -453,14 +453,14 @@
         padding-bottom: 30px;
     }
     .post_date.firstnamefield {
-        display: none;
+        display: block;
     }
 
     .fieldgroup.datediv {
     }
 
     .post_date.contactnumberfield {
-        display: none;
+        display: block;
     }
     .col-xs-12.col-sm-7.formleftside {
         border: none;
@@ -604,14 +604,14 @@
         width: 95px;
     }
     .post_date.firstnamefield {
-        display: none;
+        display: block;
     }
 
     .fieldgroup.datediv {
     }
 
     .post_date.contactnumberfield {
-        display: none;
+        display: block;
     }
     .col-xs-12.col-sm-7.formleftside {
         border: none;
